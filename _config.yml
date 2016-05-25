@@ -1,0 +1,14 @@
+layout_spectrum: 0.08741543558426201
+typography_spectrum: 0.9702902929857373
+color:
+  brandStrength: 0.09814333030954003
+  lightness: 0.5377333657816052
+  saturation: 0.11367225623689592
+  rhythmicContrast: 0.48677925299853086
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: supercoaching
