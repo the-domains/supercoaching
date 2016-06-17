@@ -11,16 +11,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.1136722562368959
+  saturation: 0.1136723
   brandStrength: 1
-  lightness: 0.5377333657816052
+  lightness: 0.5279269
   brandColors:
-    - '#70756F'
-    - '#000201'
-    - '#999B8F'
-    - '#EAEBE0'
-    - '#C2C3B8'
-  rhythmicContrast: 0.4867792529985309
-typography_spectrum: 0.9702902929857373
-layout_spectrum: 0.08741543558426201
+    - '#FFFDFE'
+    - '#021760'
+    - '#4380CE'
+    - '#ABBCD4'
+    - '#947D6D'
+  rhythmicContrast: 0.4867792
+typography_spectrum: 0.3915145
+layout_spectrum: 0.5633727
 name: supercoaching
