@@ -1,14 +1,26 @@
-layout_spectrum: 0.08741543558426201
-typography_spectrum: 0.9702902929857373
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.09814333030954003
+  saturation: 0.1136722562368959
+  brandStrength: 1
   lightness: 0.5377333657816052
-  saturation: 0.11367225623689592
-  rhythmicContrast: 0.48677925299853086
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+    - '#70756F'
+    - '#000201'
+    - '#999B8F'
+    - '#EAEBE0'
+    - '#C2C3B8'
+  rhythmicContrast: 0.4867792529985309
+typography_spectrum: 0.9702902929857373
+layout_spectrum: 0.08741543558426201
 name: supercoaching
