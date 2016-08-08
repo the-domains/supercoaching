@@ -1,3 +1,17 @@
+typography_spectrum: 0.3915145
+color:
+  saturation: 0.1136723
+  brandStrength: 1
+  lightness: 0.5279269
+  brandColors:
+    - '#FFFDFE'
+    - '#021760'
+    - '#4380CE'
+    - '#ABBCD4'
+    - '#947D6D'
+  rhythmicContrast: 0.4867792
+layout_spectrum: 0.5633727
+name: supercoaching
 collections:
   - index:
       path: /
@@ -10,18 +24,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.1136723
-  brandStrength: 1
-  lightness: 0.5279269
-  brandColors:
-    - '#FFFDFE'
-    - '#021760'
-    - '#4380CE'
-    - '#ABBCD4'
-    - '#947D6D'
-  rhythmicContrast: 0.4867792
-typography_spectrum: 0.3915145
-layout_spectrum: 0.5633727
-name: supercoaching
 title: supercoaching
+description: der Name ist Programm
